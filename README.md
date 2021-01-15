@@ -1,1 +1,1 @@
-# CS-GO-Bhop-AHK-script-2021
+# CSGO-Bhop-AHK-script-2021
